@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPServer", "MCPServer\MCPServer.csproj", "{F7651F36-D1E8-4730-8C44-14754B90529E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPClient", "MCPClient\MCPClient.csproj", "{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{F7651F36-D1E8-4730-8C44-14754B90529E}.Release|x64.Build.0 = Release|Any CPU
 		{F7651F36-D1E8-4730-8C44-14754B90529E}.Release|x86.ActiveCfg = Release|Any CPU
 		{F7651F36-D1E8-4730-8C44-14754B90529E}.Release|x86.Build.0 = Release|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Debug|x64.Build.0 = Debug|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Debug|x86.Build.0 = Debug|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Release|x64.ActiveCfg = Release|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Release|x64.Build.0 = Release|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Release|x86.ActiveCfg = Release|Any CPU
+		{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

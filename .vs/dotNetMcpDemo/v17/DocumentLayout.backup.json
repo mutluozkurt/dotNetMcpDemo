@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Projects\\dotNetMcpDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}|MCPClient\\MCPClient.csproj|e:\\projects\\dotnetmcpdemo\\mcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF8F8E4-842E-4C99-BE69-8F6EC81CF46C}|MCPClient\\MCPClient.csproj|solutionrelative:mcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|e:\\projects\\dotnetmcpdemo\\mcpserver\\mcptools\\exchangetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|solutionrelative:mcpserver\\mcptools\\exchangetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,32 +39,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\dotNetMcpDemo\\MCPClient\\Program.cs",
+              "RelativeDocumentMoniker": "MCPClient\\Program.cs",
+              "ToolTip": "E:\\Projects\\dotNetMcpDemo\\MCPClient\\Program.cs",
+              "RelativeToolTip": "MCPClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:28:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ExchangeTool.cs",
               "DocumentMoniker": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\ExchangeTool.cs",
               "RelativeDocumentMoniker": "MCPServer\\MCPTools\\ExchangeTool.cs",
               "ToolTip": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\ExchangeTool.cs",
               "RelativeToolTip": "MCPServer\\MCPTools\\ExchangeTool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T21:10:31.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherTool.cs",
               "DocumentMoniker": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\WeatherTool.cs",
               "RelativeDocumentMoniker": "MCPServer\\MCPTools\\WeatherTool.cs",
               "ToolTip": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\WeatherTool.cs",
               "RelativeToolTip": "MCPServer\\MCPTools\\WeatherTool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:10:09.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T21:10:09.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DayOfWeekTool.cs",
               "DocumentMoniker": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\DayOfWeekTool.cs",
               "RelativeDocumentMoniker": "MCPServer\\MCPTools\\DayOfWeekTool.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "MCPServer\\MCPTools\\DayOfWeekTool.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:09:31.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T21:09:31.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\Program.cs",
               "RelativeDocumentMoniker": "MCPServer\\Program.cs",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "MCPServer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:08:34.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T21:08:34.746Z"
             }
           ]
         }
