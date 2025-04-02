@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\dotNetMcpDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|e:\\projects\\dotnetmcpdemo\\mcpserver\\mcptools\\dayofweektool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|solutionrelative:mcpserver\\mcptools\\dayofweektool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|e:\\projects\\dotnetmcpdemo\\mcpserver\\mcptools\\exchangetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|solutionrelative:mcpserver\\mcptools\\exchangetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|e:\\projects\\dotnetmcpdemo\\mcpserver\\mcptools\\weathertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|solutionrelative:mcpserver\\mcptools\\weathertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|e:\\projects\\dotnetmcpdemo\\mcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7651F36-D1E8-4730-8C44-14754B90529E}|MCPServer\\MCPServer.csproj|solutionrelative:mcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExchangeTool.cs",
+              "DocumentMoniker": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\ExchangeTool.cs",
+              "RelativeDocumentMoniker": "MCPServer\\MCPTools\\ExchangeTool.cs",
+              "ToolTip": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\ExchangeTool.cs",
+              "RelativeToolTip": "MCPServer\\MCPTools\\ExchangeTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:10:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherTool.cs",
+              "DocumentMoniker": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\WeatherTool.cs",
+              "RelativeDocumentMoniker": "MCPServer\\MCPTools\\WeatherTool.cs",
+              "ToolTip": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\WeatherTool.cs",
+              "RelativeToolTip": "MCPServer\\MCPTools\\WeatherTool.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:10:09.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DayOfWeekTool.cs",
+              "DocumentMoniker": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\DayOfWeekTool.cs",
+              "RelativeDocumentMoniker": "MCPServer\\MCPTools\\DayOfWeekTool.cs",
+              "ToolTip": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\MCPTools\\DayOfWeekTool.cs",
+              "RelativeToolTip": "MCPServer\\MCPTools\\DayOfWeekTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:09:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\Program.cs",
+              "RelativeDocumentMoniker": "MCPServer\\Program.cs",
+              "ToolTip": "E:\\Projects\\dotNetMcpDemo\\MCPServer\\Program.cs",
+              "RelativeToolTip": "MCPServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:08:34.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
